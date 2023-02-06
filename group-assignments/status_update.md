@@ -13,7 +13,7 @@
 - **Matt:** I will be focusing on mapping fire hazard severity in a few ways. I am mapping a history of fires in Los Angeles County as well as mapping fire hazard zones as defined by CalFire. I will also be researching ways to combine our data into one map.
 
 
-- **Aron:**
+- **Aron:** I am working on mapping the connections between fire and flood risk by determining where water that flows on burnt land goes.
 
 
 - **Charlotte:** I am responsible for mapping socioeconomic vulnerability and adaptive capacity factors that put certain populations in LA County at disproportionate risk before, during and after disaster events. We plan to use this data for our statistical analysis, hopefully showing how disaster risk is distributed by different socioeconomic factors.
@@ -48,7 +48,7 @@ https://osfm.fire.ca.gov/divisions/community-wildfire-preparedness-and-mitigatio
 Special flood risk hazard areas in LA County: https://www.arcgis.com/home/item.html?id=323d8ac19ba349db80135f26225396d2
 LA County Neighborhood boundary data from LA Times https://usc.data.socrata.com/dataset/Los-Angeles-Neighborhood-Map/r8qd-yxsr 
 
-- Drinking Water:
+- Hydrological connections: the [HydroBASINS](https://data.hydrosheds.org/file/technical-documentation/HydroBASINS_TechDoc_v1c.pdf) dataset provides basins and their connections.
 
 - Social Vulnerability: Los Angeles County CVA Social Vulnerability Index https://geohub.lacity.org/maps/lacounty::los-angeles-county-cva-social-vulnerability-index and additional data from CalEnviroScreen (ie hazardous waste sites, pollution burden, etc). https://oehha.ca.gov/calenviroscreen/maps-data/download-data
 
