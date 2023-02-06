@@ -47,8 +47,10 @@ https://osfm.fire.ca.gov/divisions/community-wildfire-preparedness-and-mitigatio
 - Floods: I have the datasets I need. I am working on how to merge the dataframes together in order to produce relevant statistics.
 Special flood risk hazard areas in LA County: https://www.arcgis.com/home/item.html?id=323d8ac19ba349db80135f26225396d2
 LA County Neighborhood boundary data from LA Times https://usc.data.socrata.com/dataset/Los-Angeles-Neighborhood-Map/r8qd-yxsr 
-Drinking Water:
-Social Vulnerability: Los Angeles County CVA Social Vulnerability Index https://geohub.lacity.org/maps/lacounty::los-angeles-county-cva-social-vulnerability-index and additional data from CalEnviroScreen (ie hazardous waste sites, pollution burden, etc). https://oehha.ca.gov/calenviroscreen/maps-data/download-data
+
+- Drinking Water:
+
+- Social Vulnerability: Los Angeles County CVA Social Vulnerability Index https://geohub.lacity.org/maps/lacounty::los-angeles-county-cva-social-vulnerability-index and additional data from CalEnviroScreen (ie hazardous waste sites, pollution burden, etc). https://oehha.ca.gov/calenviroscreen/maps-data/download-data
 
 
 #### Concerns ####
