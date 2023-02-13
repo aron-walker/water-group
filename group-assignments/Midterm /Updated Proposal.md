@@ -17,8 +17,7 @@ We plan to incorporate four categories of data into our exploration.
 Wildfire hazard (Matt)
   - https://frap.fire.ca.gov/mapping/gis-data/ This list of datasets provided by CalFire contain one of particular interest: The Fire Hazard Severity Zones that demonstrate areas that are the most vulnerable to wildfires. 
   
-https://gis-calema.opendata.arcgis.com/maps/CalEMA::usgs-preliminary-hazard-assessment-2020/about
-This dataset examines post fire debris zones that show areas that are most susceptible to erosion after flooding impacts an area previously impacted by fire. By combining this dataset with flooding datasets, it becomes possible to easily identify hazard zones.
+- https://gis-calema.opendata.arcgis.com/maps/CalEMA::usgs-preliminary-hazard-assessment-2020/about This dataset examines post fire debris zones that show areas that are most susceptible to erosion after flooding impacts an area previously impacted by fire. By combining this dataset with flooding datasets, it becomes possible to easily identify hazard zones.
 
 Flood hazard (Hannah) 
   - Los Angeles County’s Flood Zone Determination: https://apps.gis.lacounty.gov/dpw/m/?viewer=floodzone)
